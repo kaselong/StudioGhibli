@@ -1,0 +1,59 @@
+body {
+    background-image: url(img/SGBackground.jpg);
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    border: auto;
+    border-style: solid;
+    border-radius: 5%;
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    text-align: center;
+    margin: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+span {
+    font-size:20px;
+    padding: 5px;
+    margin: 20px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+}
+
+strong {
+    font: bold;
+    padding-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.wrapper {
+    background-image: url(img/PaperBackground2.jpg);
+    border: 10px;
+    border-style: solid;
+    border-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: 20px;
+    border-radius: 1%;
+    font-style: bold;
+}
+
+p {
+    margin: 20px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
